@@ -1,5 +1,12 @@
 Hi 👋 My name is Samarajya Shrestha
-===================================Web developer-------------A highly energetic, enthusiastic and dedicated individual with well-motivated and leadership skills having a background of Science, IT and Computer Engineering, graduated from Tribhuvan University, Institute of Engineering. I have good planning & organizational skills and confidence in working independently or as a part of a team. I am flexible, reliable and possess excellent time keeping skills. I am eager to learn new technologies and innovations.* 🌍  I'm based in Morang, Nepal* ✉️  You can contact me at [samarajyastha@gmail.com](mailto:samarajyastha@gmail.com)
+===================================
+
+Web developer
+-------------
+
+A highly energetic, enthusiastic and dedicated individual with well-motivated and leadership skills having a background of Science, IT and Computer Engineering, graduated from Tribhuvan University, Institute of Engineering. I have good planning & organizational skills and confidence in working independently or as a part of a team. I am flexible, reliable and possess excellent time keeping skills. I am eager to learn new technologies and innovations.
+* 🌍  I'm based in Morang, Nepal
+*  ✉️  You can contact me at [samarajyastha@gmail.com](mailto:samarajyastha@gmail.com)
 
 ### Skills
 
